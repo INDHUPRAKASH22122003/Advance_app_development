@@ -1,0 +1,23 @@
+.ab1{
+    padding-top:69px;
+    display: flex;
+    height:100vh;
+}
+.ab2{
+    width:50%;
+}
+.ab3{
+    width:50%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.ab4{
+    width:70%;
+    height:92%;
+    margin-left: 110px;
+    margin-top: 21px;
+    padding: 15px;
+    /* padding-top: 25px; */
+    background-color: rgb(143, 227, 238);
+    
+    
+}

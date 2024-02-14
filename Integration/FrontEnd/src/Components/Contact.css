@@ -1,0 +1,65 @@
+.Ad{
+    padding-top:70px;
+    display:flex;
+    height:100vh;
+    background-image: url('https://i.pinimg.com/564x/12/04/a0/1204a00b6c16a54208dfd3a405eac449.jpg');
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+.adrs{
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: #e4c064;
+    /* background-image: url('https://c4.wallpaperflare.com/wallpaper/72/803/578/line-shine-light-abstraction-wallpaper-preview.jpg'); */
+    width:22%;
+    font-size:20px;
+    font-family: sans-serif;
+    height:40vh;
+    margin-top: 150px;
+    margin-left:130px ;
+    line-height: 40px;
+    padding-left:40px;
+    padding-top: 15px;
+}
+.query{
+    border: 2px solid black;
+    background: linear-gradient(#e66465, #9198e5);
+    width:810px;
+    height:500px;
+    margin-top: 70px;
+    margin-left: 130px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.cin{
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.query1{
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    gap:7px;
+}
+.sb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.query2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cbtn{
+  background-color: DodgerBlue; 
+  border: none; 
+  color: white; 
+  padding: 12px 16px; 
+  font-size: 16px; 
+  cursor: pointer;
+}
